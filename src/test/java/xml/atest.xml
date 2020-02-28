@@ -1,0 +1,33 @@
+<InputString>
+	<MasterID>foqadata/201803/28/B1941/12c94d9b9d857e93c573263091070a4b
+	</MasterID>
+	<ROOTPATH>foqadata/201803/28/B1941/12c94d9b9d857e93c573263091070a4b
+	</ROOTPATH>
+	<FlightIdent>
+		<UUID>12c94d9b9d857e93c573263091070a4b</UUID>
+		<Version>11</Version>
+		<Timestamp>2018-03-28 06:15:52</Timestamp>
+		<Carrier>ZH</Carrier>
+		<FlNum>CSZ9460</FlNum>
+		<FlDate>2018-03-28</FlDate>
+		<Regist>B1941</Regist>
+		<AcType>B737</AcType>
+		<DepAirport>ZUCK</DepAirport>
+		<ArrAirport>ZGGG</ArrAirport>
+		<DepRunway>20 </DepRunway>
+		<ArrRunway>20L</ArrRunway>
+		<DepTime>2018-03-28 06:15:52</DepTime>
+		<TranscDate>2018-03-28 08:33:46</TranscDate>
+		<ArrTime>2018-03-28 08:25:20</ArrTime>
+		<FapName>P73X58</FapName>
+		<RawDataFile>18032800.941</RawDataFile>
+		<RecClass>DAR </RecClass>
+		<FrameCount>1943</FrameCount>
+		<StFrIdx>10</StFrIdx>
+		<Dur>7768</Dur>
+		<TakeOffTime>2018-03-28 06:30:39</TakeOffTime>
+		<LandTime>2018-03-28 08:18:02</LandTime>
+	</FlightIdent>
+	<Status></Status>
+	<Error></Error>
+</InputString>
